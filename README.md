@@ -1,17 +1,11 @@
-# Interactive-Web-Application
-Creating an Interactive Web Application with Jupyter Notebook  
+Creating a Website with help various languages and framework
 
-We will first create some interactive widgets using ipywidgets in a Jupyter notebook. Then, we will render the notebook as a web application using Voilà. We will push the project onto a GitHub repository, and finally, host the web app on Binder. 
-
-widgetsnbextension
-This package makes Jupyter widgets available in the classic Jupyter Notebook. This package provides the necessary JavaScript controls in the Jupyter Notebook that communicate with the widget objects in the kernel.
-Install the corresponding Jupyter widgets package into your kernel, i.e., IPython users would install ipywidgets into their kernel.
-
-ipywidgets
-ipywidgets, also known as jupyter-widgets or simply widgets, are interactive HTML widgets for Jupyter notebooks and the IPython kernel.
-This package contains the python implementation of the core interactive widgets bundled in ipywidgets.
-
-Voila
-Voilà can be used to run, convert, and serve a Jupyter notebook as a standalone app.
-This can be done via the command-line, with the following pattern:
-    voila <path-to-notebook> <options>
+Languages Used
+1. HTML - basic structure of Web pages 
+2. CSS - to add style to the Web pages 
+3. JavaScript – to add motions to your web pages 
+4. jQuery – For Data 
+5. Angular & ReactJS – For Front End Development 
+6. NodeJS – Back End Development 
+7. MEAN Stack Application - JavaScript-based framework for developing scalable web applications. The term MEAN is an acronym for MongoDB, Express, Angular, and Node. 
+8. MERN Stack Application - MERN Stack is a JavaScript Stack that is used for easier and faster deployment of full-stack web applications. MERN stands for MongoDB, Express, React, and Node. 
